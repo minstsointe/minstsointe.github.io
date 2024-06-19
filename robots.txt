@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://minstsointe.github.io/sitemap
+Sitemap: https://minstsointe.github.io/app/sitemap
+Sitemap: https://minstsointe.github.io/assets/sitemap
+Sitemap: https://minstsointe.github.io/css/sitemap
+Sitemap: https://minstsointe.github.io/includes/sitemap
+Sitemap: https://minstsointe.github.io/item/sitemap
+Sitemap: https://minstsointe.github.io/src/sitemap
